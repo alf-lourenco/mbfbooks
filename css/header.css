@@ -59,3 +59,10 @@
     padding: 1em;
     background-color: var(--branco);
 }
+
+@media screen and (min-width: 1024px){
+    .container__titulo, .container__titulo--negrito{
+        font-family: var(--Fonte-secundario);
+    }
+    
+}
